@@ -16,9 +16,9 @@ namespace automation.imdb.movies.entities
 
         public string Cover { get; set; }
 
-        public decimal Grade { get; set; }
+        public float Grade { get; set; }
 
-        public DateTime Created_At { get; set; }
+        public DateTime? Created_At { get; set; }
         public DateTime? Updated_At { get; set; }
     }
 }
