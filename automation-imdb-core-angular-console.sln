@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "automation.imdb.api", "auto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automation.imdb.bot", "automation.imdb.bot\automation.imdb.bot.csproj", "{4DA3013F-7554-42E4-9D90-ADDF3F040A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automation.imdb.movies", "automation.imdb.movies\automation.imdb.movies.csproj", "{B4BD634F-F85B-461D-92E2-4E32C88CCAFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "automation.imdb.movies", "automation.imdb.movies\automation.imdb.movies.csproj", "{B4BD634F-F85B-461D-92E2-4E32C88CCAFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

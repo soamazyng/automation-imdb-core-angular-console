@@ -12,9 +12,7 @@ namespace automation.imdb.bot
             {
                 while (true)
                 {
-                    var scrapingMoviesData = new ScrapingMoviesData();
-                    scrapingMoviesData.Execute("O Silêncio dos Inocentes");
-
+                    ScrapingMoviesData.Execute("O Silêncio dos Inocentes");
                 }
             }
             catch (Exception ex)
